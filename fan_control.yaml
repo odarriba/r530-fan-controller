@@ -1,9 +1,9 @@
 general:
   debug: false
-  interval: 60
+  interval: 10
 
 hosts:
-  - name: MyLocalHost
+  - name: localhost
     hysteresis: 3
     temperatures:
       - 32
