@@ -1,7 +1,6 @@
 # Dell R530 Fan Control Script
 
-> A temperature-based fan speed controller for Dell servers (tested on an R530, should work with most PowerEdges). Supports both local and remote hosts.
-
+> A temperature-based fan speed controller for Dell servers (tested on an R530, should work with most PowerEdges). Supports both local and remote hosts. Tested in Proxmox VE.
 
 - [Dell R530 Fan Control Script](#dell-r530-fan-control-script)
   - [Requisites](#requisites)
